@@ -1,8 +1,6 @@
 # Three-Tier Application Deployment on AWS EKS using Terraform & Kubernetes
 
-This project implements a **three-tier web application architecture** deployed on **Amazon EKS** using **Infrastructure as Code (IaC)** principles. The complete setup covers infrastructure provisioning, containerization, Kubernetes orchestration, autoscaling, and monitoring.
-
-This project is designed to demonstrate real-world **DevOps and Cloud-native practices**.
+This project showcases a **three-tier web application** deployed on Amazon EKS using Infrastructure as Code (IaC), covering provisioning, containerization, Kubernetes orchestration, autoscaling, and monitoring for production-grade DevOps and cloud-native workflows.
 
 ---
 

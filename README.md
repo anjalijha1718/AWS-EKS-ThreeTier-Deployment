@@ -26,5 +26,5 @@ All components run on an **Amazon EKS cluster** with autoscaling enabled.
 - **Monitoring**: Prometheus & Grafana  
 - **Package Manager**: Helm  
 
-----------------------
+--------------
 

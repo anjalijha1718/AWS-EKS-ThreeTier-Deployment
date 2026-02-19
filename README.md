@@ -14,7 +14,7 @@ The application follows a standard **three-tier architecture**:
 
 All components run on an **Amazon EKS cluster** with autoscaling enabled.
 
---------------------
+--------------
 
 ## 🛠️ Technology Stack
 

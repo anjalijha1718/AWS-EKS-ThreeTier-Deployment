@@ -2,7 +2,7 @@
 
 This project showcases a **three-tier web application** deployed on Amazon EKS using Infrastructure as Code (IaC), covering provisioning, containerization, Kubernetes orchestration, autoscaling, and monitoring for production-grade DevOps and cloud-native workflows.
 
----------------
+-----------------
 
 ## 🏗️ Architecture Overview
 

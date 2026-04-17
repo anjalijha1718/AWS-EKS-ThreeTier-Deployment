@@ -1,4 +1,4 @@
-//It is a JavaScript a  File
+//It is a JavaScripta  File
 const tasks = require("./routes/tasks");
 const connection = require("./db");
 const cors = require("cors");

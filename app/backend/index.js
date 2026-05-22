@@ -1,5 +1,5 @@
 // this is a comment
-//It is a JavaScript  a          File
+//It is a JavaScript  File
 const tasks = require("./routes/tasks");
 const connection = require("./db");
 const cors = require("cors");

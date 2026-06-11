@@ -1,4 +1,4 @@
-//It is comment
+//It is a comment
 const mongoose = require("mongoose");
 
 module.exports = async () => {

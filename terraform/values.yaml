@@ -15,7 +15,7 @@ serviceAccounts:
     name: ""
     annotations: {}
 
-## Monitors ConfigMap changes and POSTs to a URL
+##   Monitors ConfigMap changes and POSTs to a URL
 ## Ref: https://github.com/jimmidyson/configmap-reload
 ##
 configmapReload:
